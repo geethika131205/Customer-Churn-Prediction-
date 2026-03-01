@@ -73,3 +73,20 @@ This project covers the complete machine learning pipeline from data cleaning to
 ## 🚀 How to Run This Project
 
 1. Clone the repository
+
+---
+
+## 🎯 Future Improvements
+
+- Hyperparameter tuning
+- Handling class imbalance
+- Model deployment using Flask or Streamlit
+- Model explainability using SHAP
+
+---
+
+## 👩‍💻 Author
+
+Geethika C
+
+If you found this project useful, feel free to star the repository.
