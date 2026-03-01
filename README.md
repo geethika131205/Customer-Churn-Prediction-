@@ -47,7 +47,6 @@ This project covers the complete machine learning pipeline from data cleaning to
 
 - Logistic Regression
 - Random Forest Classifier
-- (Add any other models you used)
 
 ---
 
